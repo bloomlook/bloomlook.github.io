@@ -1,0 +1,22 @@
+body {
+    height: 100vh;
+    margin: 0;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 80vw;
+    max-width: 800px;
+    margin: 0 auto 40px auto;
+}
+
+p {
+    color: #000;
+    font-family: 'Montserrat', sans-serif;
+    font-size: calc(2vw + 20px);
+    margin: 40px auto;
+}
